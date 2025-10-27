@@ -1,4 +1,4 @@
 # Demo-Repo
 This is my first git repo.
 <br>
-Author : Lavany Arora
+Author : Lavanya Arora
